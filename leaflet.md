@@ -1,4 +1,4 @@
-# Смена CRS без перемонтирования всей карты / Changing the CRS without remounting the entire map
+# Смена CRS без перемонтирования всей карты во время смены слоев карты / Changing the CRS without remounting the entire map while changing map layers
 const center = map.getCenter()
 const zoom = map.getZoom()
 
